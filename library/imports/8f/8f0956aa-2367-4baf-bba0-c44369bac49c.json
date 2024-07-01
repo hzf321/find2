@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "photo_scrollview_di",
+    "texture": "54a21bd0-806d-4535-ac88-4aaefefbfcb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      652,
+      499
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      652,
+      499
+    ],
+    "capInsets": [
+      183,
+      341,
+      187,
+      158
+    ]
+  }
+}

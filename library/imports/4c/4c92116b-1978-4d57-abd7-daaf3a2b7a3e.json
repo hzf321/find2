@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiugai_10",
+    "texture": "3f9900bd-94b9-4fda-bf3e-fe74249c5006",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1232,
+      928
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1232,
+      928
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

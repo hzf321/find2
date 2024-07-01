@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiugai_8",
+    "texture": "471a5fc4-4e4b-41c3-bae4-3b2e02edc25e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1232,
+      928
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1232,
+      928
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

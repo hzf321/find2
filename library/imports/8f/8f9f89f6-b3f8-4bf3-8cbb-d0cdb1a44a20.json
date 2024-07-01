@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beauty_star",
+    "texture": "14faf9eb-ece8-487f-98a0-3d1c6eca866d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

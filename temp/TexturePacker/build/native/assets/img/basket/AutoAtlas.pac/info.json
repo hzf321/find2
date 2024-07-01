@@ -1,0 +1,242 @@
+{
+  "projectPath": "/Users/aw/Desktop/find2",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "1ade1819-4666-41c0-90b7-713add03720d": {
+      "assetMtime": 1715846992000,
+      "metaMtime": 1719801527542
+    },
+    "153c3050-7050-404d-b33e-b67030cb1bca": {
+      "assetMtime": 1716517898000,
+      "metaMtime": 1719801527568
+    },
+    "c5f8371b-4328-4879-a57c-e1c1f1d7d730": {
+      "assetMtime": 1716517898000,
+      "metaMtime": 1719801527568
+    },
+    "64829083-44f0-4184-9e41-b22907ddbca7": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527564
+    },
+    "a995e65c-37c2-4df6-a0c3-15d1ccafd2df": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527564
+    },
+    "7ad3206c-5f8c-4189-bbce-cca7ce3e6b50": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527556
+    },
+    "5df219a2-6ee3-449a-a467-2bd072b76e2e": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527556
+    },
+    "d80313a7-bc37-4b35-8737-3c31aefd20d5": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527558
+    },
+    "408cac22-b7fa-4144-8ab7-ddd2efe091f2": {
+      "assetMtime": 1716517242000,
+      "metaMtime": 1719801527558
+    },
+    "f78b4467-d3ab-4432-b55e-f0094013cbe5": {
+      "assetMtime": 1716517430000,
+      "metaMtime": 1719801527566
+    },
+    "359ad352-7e48-4b67-a37f-51d450ecef56": {
+      "assetMtime": 1716517430000,
+      "metaMtime": 1719801527566
+    },
+    "fd20afa7-4d67-4b83-85be-04e03d515025": {
+      "assetMtime": 1716517066000,
+      "metaMtime": 1719801527567
+    },
+    "25755345-524f-4636-a244-674d59d892a3": {
+      "assetMtime": 1716517066000,
+      "metaMtime": 1719801527567
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "1ade1819-4666-41c0-90b7-713add03720d",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "basket_play_text",
+            "uuid": "f78b4467-d3ab-4432-b55e-f0094013cbe5",
+            "textureUuid": "359ad352-7e48-4b67-a37f-51d450ecef56",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710393_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 488,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 488
+            },
+            "rawWidth": 488,
+            "rawHeight": 50,
+            "width": 494,
+            "height": 56,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/35/359ad352-7e48-4b67-a37f-51d450ecef56.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 56,
+            "rotatedHeight": 494
+          },
+          {
+            "name": "basket_bar_di",
+            "uuid": "7ad3206c-5f8c-4189-bbce-cca7ce3e6b50",
+            "textureUuid": "5df219a2-6ee3-449a-a467-2bd072b76e2e",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710392_image_2.png",
+            "trim": {
+              "x": 59,
+              "y": 3,
+              "width": 396,
+              "height": 47,
+              "rotatedWidth": 396,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 396,
+            "rawHeight": 47,
+            "width": 402,
+            "height": 53,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/5d/5df219a2-6ee3-449a-a467-2bd072b76e2e.png",
+            "x": 56,
+            "y": 0,
+            "rotatedWidth": 402,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "basket_bar_yellow",
+            "uuid": "d80313a7-bc37-4b35-8737-3c31aefd20d5",
+            "textureUuid": "408cac22-b7fa-4144-8ab7-ddd2efe091f2",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710393_image_3.png",
+            "trim": {
+              "x": 59,
+              "y": 56,
+              "width": 380,
+              "height": 30,
+              "rotatedWidth": 380,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 380,
+            "rawHeight": 30,
+            "width": 386,
+            "height": 36,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/40/408cac22-b7fa-4144-8ab7-ddd2efe091f2.png",
+            "x": 56,
+            "y": 53,
+            "rotatedWidth": 386,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "basket_play",
+            "uuid": "fd20afa7-4d67-4b83-85be-04e03d515025",
+            "textureUuid": "25755345-524f-4636-a244-674d59d892a3",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710393_image_5.png",
+            "trim": {
+              "x": 59,
+              "y": 92,
+              "width": 361,
+              "height": 192,
+              "rotatedWidth": 361,
+              "rotatedHeight": 192
+            },
+            "rawWidth": 361,
+            "rawHeight": 192,
+            "width": 367,
+            "height": 198,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/25/25755345-524f-4636-a244-674d59d892a3.png",
+            "x": 56,
+            "y": 89,
+            "rotatedWidth": 367,
+            "rotatedHeight": 198
+          },
+          {
+            "name": "basket_text",
+            "uuid": "153c3050-7050-404d-b33e-b67030cb1bca",
+            "textureUuid": "c5f8371b-4328-4879-a57c-e1c1f1d7d730",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710392_image_0.png",
+            "trim": {
+              "x": 59,
+              "y": 290,
+              "width": 205,
+              "height": 48,
+              "rotatedWidth": 48,
+              "rotatedHeight": 205
+            },
+            "rawWidth": 205,
+            "rawHeight": 48,
+            "width": 211,
+            "height": 54,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/c5/c5f8371b-4328-4879-a57c-e1c1f1d7d730.png",
+            "x": 56,
+            "y": 287,
+            "rotated": true,
+            "rotatedWidth": 54,
+            "rotatedHeight": 211
+          },
+          {
+            "name": "basket_logo",
+            "uuid": "64829083-44f0-4184-9e41-b22907ddbca7",
+            "textureUuid": "a995e65c-37c2-4df6-a0c3-15d1ccafd2df",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710392_image_1.png",
+            "trim": {
+              "x": 113,
+              "y": 290,
+              "width": 335,
+              "height": 167,
+              "rotatedWidth": 335,
+              "rotatedHeight": 167
+            },
+            "rawWidth": 335,
+            "rawHeight": 167,
+            "width": 341,
+            "height": 173,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/a9/a995e65c-37c2-4df6-a0c3-15d1ccafd2df.png",
+            "x": 110,
+            "y": 287,
+            "rotatedWidth": 341,
+            "rotatedHeight": 173
+          }
+        ],
+        "width": 458,
+        "height": 498,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/basket/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/basket/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

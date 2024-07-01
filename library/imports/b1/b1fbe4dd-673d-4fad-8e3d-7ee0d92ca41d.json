@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "student_tiao",
+    "texture": "f673775b-f861-44ff-a757-dde65ec727e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

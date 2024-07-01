@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beauty_title",
+    "texture": "be335275-103a-4181-8c7b-9880133afaf0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      517,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      517,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

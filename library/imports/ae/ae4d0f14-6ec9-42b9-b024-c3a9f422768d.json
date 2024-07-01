@@ -1,0 +1,190 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "level16",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "path": [
+      {
+        "centerPos": {
+          "x": -33,
+          "y": 380
+        },
+        "startPos": {
+          "x": 74,
+          "y": 307
+        },
+        "endPos": {
+          "x": -141,
+          "y": 452
+        },
+        "blockSize": {
+          "wid": 215,
+          "hei": 145
+        }
+      },
+      {
+        "centerPos": {
+          "x": 395,
+          "y": 336
+        },
+        "startPos": {
+          "x": 338,
+          "y": 405
+        },
+        "endPos": {
+          "x": 452,
+          "y": 268
+        },
+        "blockSize": {
+          "wid": 114,
+          "hei": 137
+        }
+      },
+      {
+        "centerPos": {
+          "x": 287,
+          "y": 92
+        },
+        "startPos": {
+          "x": 237,
+          "y": 142
+        },
+        "endPos": {
+          "x": 338,
+          "y": 42
+        },
+        "blockSize": {
+          "wid": 101,
+          "hei": 99
+        }
+      },
+      {
+        "centerPos": {
+          "x": 565,
+          "y": -6
+        },
+        "startPos": {
+          "x": 521,
+          "y": 98
+        },
+        "endPos": {
+          "x": 609,
+          "y": -109
+        },
+        "blockSize": {
+          "wid": 87,
+          "hei": 206
+        }
+      },
+      {
+        "centerPos": {
+          "x": 545,
+          "y": -382
+        },
+        "startPos": {
+          "x": 477,
+          "y": -307
+        },
+        "endPos": {
+          "x": 613,
+          "y": -458
+        },
+        "blockSize": {
+          "wid": 136,
+          "hei": 150
+        }
+      },
+      {
+        "centerPos": {
+          "x": -42,
+          "y": -363
+        },
+        "startPos": {
+          "x": -156,
+          "y": -269
+        },
+        "endPos": {
+          "x": 73,
+          "y": -458
+        },
+        "blockSize": {
+          "wid": 228,
+          "hei": 188
+        }
+      },
+      {
+        "centerPos": {
+          "x": -517,
+          "y": -403
+        },
+        "startPos": {
+          "x": -418,
+          "y": -345
+        },
+        "endPos": {
+          "x": -616,
+          "y": -460
+        },
+        "blockSize": {
+          "wid": 197,
+          "hei": 115
+        }
+      },
+      {
+        "centerPos": {
+          "x": -258,
+          "y": 117
+        },
+        "startPos": {
+          "x": -318,
+          "y": 197
+        },
+        "endPos": {
+          "x": -197,
+          "y": 36
+        },
+        "blockSize": {
+          "wid": 121,
+          "hei": 161
+        }
+      },
+      {
+        "centerPos": {
+          "x": -482,
+          "y": 292
+        },
+        "startPos": {
+          "x": -550,
+          "y": 358
+        },
+        "endPos": {
+          "x": -414,
+          "y": 225
+        },
+        "blockSize": {
+          "wid": 136,
+          "hei": 133
+        }
+      },
+      {
+        "centerPos": {
+          "x": -17,
+          "y": 67
+        },
+        "startPos": {
+          "x": -72,
+          "y": 133
+        },
+        "endPos": {
+          "x": 38,
+          "y": 1
+        },
+        "blockSize": {
+          "wid": 109,
+          "hei": 131
+        }
+      }
+    ]
+  }
+}

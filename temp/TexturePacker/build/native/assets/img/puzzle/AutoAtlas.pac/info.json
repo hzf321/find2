@@ -1,0 +1,117 @@
+{
+  "projectPath": "/Users/aw/Desktop/find2",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "4f3db73f-175c-4a54-a84e-cbce93353f76": {
+      "assetMtime": 1715847002000,
+      "metaMtime": 1719801527631
+    },
+    "2a77f84b-d789-425b-9527-089c5a19f370": {
+      "assetMtime": 1716519386000,
+      "metaMtime": 1719801527648
+    },
+    "68d83935-6794-4fe7-bf59-df2bb182878f": {
+      "assetMtime": 1716519386000,
+      "metaMtime": 1719801527648
+    },
+    "b5eddf75-afd8-484b-b92a-5fd8de430c02": {
+      "assetMtime": 1716519336000,
+      "metaMtime": 1719801527646
+    },
+    "40942c53-61ce-4c4a-a3be-851a30479668": {
+      "assetMtime": 1716519336000,
+      "metaMtime": 1719801527646
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "4f3db73f-175c-4a54-a84e-cbce93353f76",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "puzzle_btn",
+            "uuid": "2a77f84b-d789-425b-9527-089c5a19f370",
+            "textureUuid": "68d83935-6794-4fe7-bf59-df2bb182878f",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804708807_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 540,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 540
+            },
+            "rawWidth": 540,
+            "rawHeight": 120,
+            "width": 546,
+            "height": 126,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/68/68d83935-6794-4fe7-bf59-df2bb182878f.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 126,
+            "rotatedHeight": 546
+          },
+          {
+            "name": "puzzle_title",
+            "uuid": "b5eddf75-afd8-484b-b92a-5fd8de430c02",
+            "textureUuid": "40942c53-61ce-4c4a-a3be-851a30479668",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804708808_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 549,
+              "width": 115,
+              "height": 58,
+              "rotatedWidth": 115,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 115,
+            "rawHeight": 58,
+            "width": 121,
+            "height": 64,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/40/40942c53-61ce-4c4a-a3be-851a30479668.png",
+            "x": 0,
+            "y": 546,
+            "rotatedWidth": 121,
+            "rotatedHeight": 64
+          }
+        ],
+        "width": 126,
+        "height": 610,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/puzzle/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/puzzle/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

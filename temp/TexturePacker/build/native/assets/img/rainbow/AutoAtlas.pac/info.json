@@ -1,0 +1,180 @@
+{
+  "projectPath": "/Users/aw/Desktop/find2",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "4bf8768f-96a4-49b3-8148-9c457d10fc1e": {
+      "assetMtime": 1715846986000,
+      "metaMtime": 1719801527638
+    },
+    "5d1e34de-bddb-41fd-900f-e169e7854d49": {
+      "assetMtime": 1716520010000,
+      "metaMtime": 1719801527652
+    },
+    "d8cd55d4-11e0-42ad-a157-f032643b66ab": {
+      "assetMtime": 1716520010000,
+      "metaMtime": 1719801527652
+    },
+    "6b65ac51-95e1-40e4-a9e1-0cb2aa5cba88": {
+      "assetMtime": 1716519842000,
+      "metaMtime": 1719801527658
+    },
+    "f664b53e-347f-4d89-b505-a3987716f74a": {
+      "assetMtime": 1716519842000,
+      "metaMtime": 1719801527658
+    },
+    "ade8055a-8e5c-42be-b6b7-7442009d7ac6": {
+      "assetMtime": 1716519858000,
+      "metaMtime": 1719801527659
+    },
+    "f3376ef7-05ca-4d6c-ad6d-11e022d4c116": {
+      "assetMtime": 1716519858000,
+      "metaMtime": 1719801527659
+    },
+    "d2b67c33-8cfd-4cfa-9e42-62100486a8b1": {
+      "assetMtime": 1716519994000,
+      "metaMtime": 1719801527653
+    },
+    "979fe18d-0127-4446-acb3-c29154f635c6": {
+      "assetMtime": 1716519994000,
+      "metaMtime": 1719801527653
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "4bf8768f-96a4-49b3-8148-9c457d10fc1e",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "rainbow_btn",
+            "uuid": "d2b67c33-8cfd-4cfa-9e42-62100486a8b1",
+            "textureUuid": "979fe18d-0127-4446-acb3-c29154f635c6",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804709185_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 540,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 540
+            },
+            "rawWidth": 540,
+            "rawHeight": 120,
+            "width": 546,
+            "height": 126,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/97/979fe18d-0127-4446-acb3-c29154f635c6.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 126,
+            "rotatedHeight": 546
+          },
+          {
+            "name": "rainbow_icon",
+            "uuid": "6b65ac51-95e1-40e4-a9e1-0cb2aa5cba88",
+            "textureUuid": "f664b53e-347f-4d89-b505-a3987716f74a",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804709184_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 549,
+              "width": 404,
+              "height": 412,
+              "rotatedWidth": 404,
+              "rotatedHeight": 412
+            },
+            "rawWidth": 404,
+            "rawHeight": 412,
+            "width": 410,
+            "height": 418,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/f6/f664b53e-347f-4d89-b505-a3987716f74a.png",
+            "x": 0,
+            "y": 546,
+            "rotatedWidth": 410,
+            "rotatedHeight": 418
+          },
+          {
+            "name": "rainbow_title",
+            "uuid": "ade8055a-8e5c-42be-b6b7-7442009d7ac6",
+            "textureUuid": "f3376ef7-05ca-4d6c-ad6d-11e022d4c116",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804709184_image_2.png",
+            "trim": {
+              "x": 129,
+              "y": 3,
+              "width": 276,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 276
+            },
+            "rawWidth": 276,
+            "rawHeight": 58,
+            "width": 282,
+            "height": 64,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/f3/f3376ef7-05ca-4d6c-ad6d-11e022d4c116.png",
+            "x": 126,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 64,
+            "rotatedHeight": 282
+          },
+          {
+            "name": "rainbow_btn2",
+            "uuid": "5d1e34de-bddb-41fd-900f-e169e7854d49",
+            "textureUuid": "d8cd55d4-11e0-42ad-a157-f032643b66ab",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804709184_image_0.png",
+            "trim": {
+              "x": 129,
+              "y": 285,
+              "width": 242,
+              "height": 72,
+              "rotatedWidth": 242,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 242,
+            "rawHeight": 72,
+            "width": 248,
+            "height": 78,
+            "originalPath": "/Users/aw/Desktop/find2/library/imports/d8/d8cd55d4-11e0-42ad-a157-f032643b66ab.png",
+            "x": 126,
+            "y": 282,
+            "rotatedWidth": 248,
+            "rotatedHeight": 78
+          }
+        ],
+        "width": 410,
+        "height": 964,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/rainbow/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find2/temp/TexturePacker/build/native/assets/img/rainbow/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}
