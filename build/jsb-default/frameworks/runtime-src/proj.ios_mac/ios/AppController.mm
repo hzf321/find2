@@ -31,6 +31,7 @@
 #import "SDKWrapper.h"
 #import "platform/ios/CCEAGLView-ios.h"
 #import "UnityMgr.h"
+#import <AppTrackingTransparency/AppTrackingTransparency.h>
 
 using namespace cocos2d;
 
@@ -77,6 +78,13 @@ Application* app = nullptr;
     [window makeKeyAndVisible];
     
     [[UIApplication sharedApplication] setStatusBarHidden:YES];
+    
+    if (@available(iOS 14.0, *)) {
+            [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
+
+            }];
+        }
+    
     
     [[UnityMgr shareInstance] initsdk: _viewController];
     
