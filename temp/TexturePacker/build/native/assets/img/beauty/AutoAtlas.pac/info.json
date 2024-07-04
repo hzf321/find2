@@ -4,55 +4,55 @@
   "mtimes": {
     "adebca63-4311-4e78-9eff-62cfe1bec1ff": {
       "assetMtime": 1715847010000,
-      "metaMtime": 1719801527557
+      "metaMtime": 1720060707978
     },
     "04821738-db57-450d-8596-238e83f0d97d": {
       "assetMtime": 1715755526000,
-      "metaMtime": 1719801527571
+      "metaMtime": 1720060707993
     },
     "155e7395-5161-4e24-854e-3ea51d033cd0": {
       "assetMtime": 1715755526000,
-      "metaMtime": 1719801527571
+      "metaMtime": 1720060707993
     },
     "1b89fe49-aefa-4431-ab91-493b2b11952d": {
       "assetMtime": 1716519140000,
-      "metaMtime": 1719801527583
+      "metaMtime": 1720060708007
     },
     "61753724-a3e7-43b0-a566-7319ab0ab50e": {
       "assetMtime": 1716519140000,
-      "metaMtime": 1719801527583
+      "metaMtime": 1720060708007
     },
     "3f0da4d6-fe93-4385-a143-37acfd8016d5": {
       "assetMtime": 1716519262000,
-      "metaMtime": 1719801527579
+      "metaMtime": 1720060708010
     },
     "be335275-103a-4181-8c7b-9880133afaf0": {
       "assetMtime": 1716519262000,
-      "metaMtime": 1719801527579
+      "metaMtime": 1720060708010
     },
     "8f9f89f6-b3f8-4bf3-8cbb-d0cdb1a44a20": {
       "assetMtime": 1716519156000,
-      "metaMtime": 1719801527581
+      "metaMtime": 1720060708004
     },
     "14faf9eb-ece8-487f-98a0-3d1c6eca866d": {
       "assetMtime": 1716519156000,
-      "metaMtime": 1719801527581
+      "metaMtime": 1720060708004
     },
     "eca1205c-c87b-48c6-93c4-49800a46290a": {
       "assetMtime": 1715755526000,
-      "metaMtime": 1719801527570
+      "metaMtime": 1720060707994
     },
     "184f3782-0a0d-4351-b3e7-07d4a9936ce6": {
       "assetMtime": 1715755526000,
-      "metaMtime": 1719801527570
+      "metaMtime": 1720060707994
     },
     "f69009f8-7157-4b41-8ebe-553bdb9fdc1d": {
       "assetMtime": 1716519156000,
-      "metaMtime": 1719801527578
+      "metaMtime": 1720060708003
     },
     "1168ff90-8930-4910-a251-7f71a4a71b7c": {
       "assetMtime": 1716519156000,
-      "metaMtime": 1719801527578
+      "metaMtime": 1720060708003
     }
   },
   "result": {
@@ -88,7 +88,7 @@
             "name": "beauty_1",
             "uuid": "eca1205c-c87b-48c6-93c4-49800a46290a",
             "textureUuid": "184f3782-0a0d-4351-b3e7-07d4a9936ce6",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707745_image_4.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815859_image_4.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -111,7 +111,7 @@
             "name": "beauty_2",
             "uuid": "04821738-db57-450d-8596-238e83f0d97d",
             "textureUuid": "155e7395-5161-4e24-854e-3ea51d033cd0",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707740_image_0.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815851_image_0.png",
             "trim": {
               "x": 3,
               "y": 137,
@@ -135,7 +135,7 @@
             "name": "beauty_btn",
             "uuid": "1b89fe49-aefa-4431-ab91-493b2b11952d",
             "textureUuid": "61753724-a3e7-43b0-a566-7319ab0ab50e",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707744_image_1.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815852_image_1.png",
             "trim": {
               "x": 3,
               "y": 242,
@@ -159,7 +159,7 @@
             "name": "beauty_title",
             "uuid": "3f0da4d6-fe93-4385-a143-37acfd8016d5",
             "textureUuid": "be335275-103a-4181-8c7b-9880133afaf0",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707744_image_2.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815852_image_2.png",
             "trim": {
               "x": 129,
               "y": 242,
@@ -183,7 +183,7 @@
             "name": "beauty_star",
             "uuid": "8f9f89f6-b3f8-4bf3-8cbb-d0cdb1a44a20",
             "textureUuid": "14faf9eb-ece8-487f-98a0-3d1c6eca866d",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707744_image_3.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815853_image_3.png",
             "trim": {
               "x": 3,
               "y": 788,
@@ -206,7 +206,7 @@
             "name": "beauty_nostar",
             "uuid": "f69009f8-7157-4b41-8ebe-553bdb9fdc1d",
             "textureUuid": "1168ff90-8930-4910-a251-7f71a4a71b7c",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804707745_image_5.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060815863_image_5.png",
             "trim": {
               "x": 89,
               "y": 788,

@@ -46,7 +46,7 @@ class gameControlClass {
         let minute: number = Math.floor(value / 60);
         let second: number = Math.floor(value % 60);
         let minStr: string = ""
-        if (minute < 10) {        //分钟
+        if (minute < 10) {        //分钟  
             minStr = "0" + minute
         } else {
             minStr = minute.toString();

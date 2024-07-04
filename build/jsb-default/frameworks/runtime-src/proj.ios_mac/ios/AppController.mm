@@ -79,11 +79,7 @@ Application* app = nullptr;
     
     [[UIApplication sharedApplication] setStatusBarHidden:YES];
     
-    if (@available(iOS 14.0, *)) {
-            [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
 
-            }];
-        }
     
     
     [[UnityMgr shareInstance] initsdk: _viewController];
@@ -101,6 +97,8 @@ Application* app = nullptr;
      */
     app->onPause();
     [[SDKWrapper getInstance] applicationWillResignActive:application];
+    
+
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
@@ -109,7 +107,12 @@ Application* app = nullptr;
      */
     app->onResume();
     [[SDKWrapper getInstance] applicationDidBecomeActive:application];
-}
+    
+    if (@available(iOS 14.0, *)) {
+            [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
+
+            }];
+        }}
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
     /*

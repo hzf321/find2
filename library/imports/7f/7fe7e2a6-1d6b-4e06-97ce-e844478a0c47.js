@@ -35,7 +35,7 @@ var gameControlClass = /** @class */ (function () {
         var minute = Math.floor(value / 60);
         var second = Math.floor(value % 60);
         var minStr = "";
-        if (minute < 10) { //分钟
+        if (minute < 10) { //分钟  
             minStr = "0" + minute;
         }
         else {

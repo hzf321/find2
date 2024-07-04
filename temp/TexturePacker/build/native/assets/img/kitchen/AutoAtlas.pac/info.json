@@ -4,63 +4,63 @@
   "mtimes": {
     "e6f44706-1290-4c47-9a06-2dbc243ac8f4": {
       "assetMtime": 1715846998000,
-      "metaMtime": 1719801527594
+      "metaMtime": 1720060708025
     },
     "14c0c879-6912-4df6-b6e8-3a38e2e90b7c": {
       "assetMtime": 1716521026000,
-      "metaMtime": 1719801527622
+      "metaMtime": 1720060708057
     },
     "1a0af009-2b47-450b-a1eb-83c5e08d2ff4": {
       "assetMtime": 1716521026000,
-      "metaMtime": 1719801527622
+      "metaMtime": 1720060708057
     },
     "265773da-ae05-4c92-9c8a-bb53f58521b9": {
       "assetMtime": 1715416186000,
-      "metaMtime": 1719801527605
+      "metaMtime": 1720060708043
     },
     "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a": {
       "assetMtime": 1715416186000,
-      "metaMtime": 1719801527605
+      "metaMtime": 1720060708043
     },
     "44839e39-a7a1-4ef1-bd85-e124984cb812": {
       "assetMtime": 1716521038000,
-      "metaMtime": 1719801527606
+      "metaMtime": 1720060708042
     },
     "011f4d3f-3942-4449-b96f-b4a1ce6150f3": {
       "assetMtime": 1716521038000,
-      "metaMtime": 1719801527606
+      "metaMtime": 1720060708042
     },
     "4eb603f6-8891-4388-ae7c-98e9f6a1152c": {
       "assetMtime": 1715417262000,
-      "metaMtime": 1719801527623
+      "metaMtime": 1720060708060
     },
     "0718e916-a717-4b12-9f1a-86187b3f8145": {
       "assetMtime": 1715417262000,
-      "metaMtime": 1719801527623
+      "metaMtime": 1720060708060
     },
     "59419325-ebd3-49ac-baac-d31d0c5d812c": {
       "assetMtime": 1716520958000,
-      "metaMtime": 1719801527621
+      "metaMtime": 1720060708058
     },
     "b1cc6880-dfee-4d0c-b739-3c6c0d68ac04": {
       "assetMtime": 1716520958000,
-      "metaMtime": 1719801527621
+      "metaMtime": 1720060708058
     },
     "ba59e8b0-b96e-454f-acde-91a2caffc5ad": {
       "assetMtime": 1715830688000,
-      "metaMtime": 1719801527630
+      "metaMtime": 1720060708069
     },
     "22acc70c-6f97-4303-b98c-bb64b955e06e": {
       "assetMtime": 1715830688000,
-      "metaMtime": 1719801527630
+      "metaMtime": 1720060708069
     },
     "baa47998-07e0-46fc-8c24-78ddec733da6": {
       "assetMtime": 1715416186000,
-      "metaMtime": 1719801527614
+      "metaMtime": 1720060708049
     },
     "6f426183-ed7b-4377-8706-9a522bdfa622": {
       "assetMtime": 1715416186000,
-      "metaMtime": 1719801527614
+      "metaMtime": 1720060708049
     }
   },
   "result": {
@@ -96,7 +96,7 @@
             "name": "kitchen_imgbg",
             "uuid": "4eb603f6-8891-4388-ae7c-98e9f6a1152c",
             "textureUuid": "0718e916-a717-4b12-9f1a-86187b3f8145",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710836_image_3.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818653_image_3.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -120,7 +120,7 @@
             "name": "kitchen_tishiImg",
             "uuid": "ba59e8b0-b96e-454f-acde-91a2caffc5ad",
             "textureUuid": "22acc70c-6f97-4303-b98c-bb64b955e06e",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710837_image_5.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818658_image_5.png",
             "trim": {
               "x": 3,
               "y": 648,
@@ -143,7 +143,7 @@
             "name": "kitchen_find",
             "uuid": "baa47998-07e0-46fc-8c24-78ddec733da6",
             "textureUuid": "6f426183-ed7b-4377-8706-9a522bdfa622",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710837_image_6.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818658_image_6.png",
             "trim": {
               "x": 3,
               "y": 802,
@@ -166,7 +166,7 @@
             "name": "kitchen_pauseicon",
             "uuid": "14c0c879-6912-4df6-b6e8-3a38e2e90b7c",
             "textureUuid": "1a0af009-2b47-450b-a1eb-83c5e08d2ff4",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710836_image_0.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818651_image_0.png",
             "trim": {
               "x": 157,
               "y": 648,
@@ -189,7 +189,7 @@
             "name": "kitchen_tishi",
             "uuid": "59419325-ebd3-49ac-baac-d31d0c5d812c",
             "textureUuid": "b1cc6880-dfee-4d0c-b739-3c6c0d68ac04",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710837_image_4.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818657_image_4.png",
             "trim": {
               "x": 157,
               "y": 768,
@@ -213,7 +213,7 @@
             "name": "kitchen_back",
             "uuid": "44839e39-a7a1-4ef1-bd85-e124984cb812",
             "textureUuid": "011f4d3f-3942-4449-b96f-b4a1ce6150f3",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710836_image_2.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818652_image_2.png",
             "trim": {
               "x": 277,
               "y": 648,
@@ -236,7 +236,7 @@
             "name": "kitchen_err",
             "uuid": "265773da-ae05-4c92-9c8a-bb53f58521b9",
             "textureUuid": "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a",
-            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1719804710836_image_1.png",
+            "path": "/Users/aw/Desktop/find2/temp/trimImages/spritesheet_js_1720060818652_image_1.png",
             "trim": {
               "x": 397,
               "y": 648,
